@@ -135,11 +135,8 @@ Four main tables:
 | YEAR | VARCHAR (20) | NOT NULL |
 | SUBJECTCODE | VARCHAR (20) | NOT NULL |
 
-## 6. Data Flow Diagram
 
-Data Flow Diagrams are included in the original document for Level-0, Level-1, and Level-2. These provide a visual representation of the data flow within the system.
-
-## 7. Testing
+## 6. Testing
 
 | Form Name | Input | Expected Output | Actual Output | Status |
 |-----------|-------|-----------------|---------------|--------|
@@ -150,7 +147,7 @@ Data Flow Diagrams are included in the original document for Level-0, Level-1, a
 | Student Course Registration Form | Menu Option | Student gets enrolled in the chosen courses | Student was enrolled in the chosen courses | PASS |
 | Faculty Course Selection Form | Menu Option | If students are enrolled in the course, the faculty gets the student list | Faculty received the number of students along with the student list | PASS |
 
-## 8. Sample Forms
+## 7. Sample Forms
 
 The original document includes sample form images for:
 - Login Form
