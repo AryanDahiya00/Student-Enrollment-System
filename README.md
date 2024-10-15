@@ -89,6 +89,10 @@ An automated registration system where users can:
 - Login using unique credentials
 - Enroll in or teach courses based on user type
 
+![alt text](https://github.com/AryanDahiya00/Student-Enrollment-System/blob/main/Capture1.JPG)
+![alt text](https://github.com/AryanDahiya00/Student-Enrollment-System/blob/main/Capture2.JPG)
+![alt text](https://github.com/AryanDahiya00/Student-Enrollment-System/blob/main/Capture3.JPG)
+
 ## 4. Back-End Description
 
 Four main tables:
